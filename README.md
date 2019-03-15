@@ -23,7 +23,7 @@ In this function,dates are redacted by using spacy package with 'DATE' attribute
 
 redact_concept():
 In this function, a package called thesaurus is being used to find the synonyms of a given word. Based on the given concept word, all the synonyms in the text are identified and then redact
-ed with the given character. I have used concept as 'prominent' and it redacts similar word in my text file such asoutstanding ,salient. 
+ed with the given character. I have used concept as 'prominent' and it redacts similar word in my text file such as outstanding ,salient. 
 
 output():
 a new file is created with 'filename'redacted.txt and stored the entire redacted data in this file.
