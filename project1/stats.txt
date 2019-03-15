@@ -1,0 +1,15 @@
+0   
+1 Sudheer 7.0 Name
+2 Norman 6.0 Name
+3 Miller 6.0 Name
+4 Miller 6.0 Name
+5 02/09/2016 10.0 Date
+6 "10 plus years" 13.0 Date
+7 1998 4.0 Date
+8 405-887-2770 12.0 Phone
+9 405-123-8976 12.0 Phone
+10 he 2.0 Gender
+11 his 3.0 Gender
+12 outstanding 11.0 Concept
+13 relieved 8.0 Concept
+14 salient 7.0 Concept
